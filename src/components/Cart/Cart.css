@@ -1,0 +1,14 @@
+#cart{
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  margin-right: 0.65em;
+  margin-left: 0.8em;
+  margin-right: 2em;
+  position: relative;
+}
+
+.popover .cartHeader {
+  text-align: center;
+  background-color: #E30804;
+}
